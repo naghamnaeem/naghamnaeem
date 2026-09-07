@@ -1,16 +1,36 @@
 ## Hi there 👋
+# Hi, I'm Nagham Qanoo 👋
 
-<!--
-**naghamnaeem/naghamnaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Software Development Graduate
+🏛️ Islamic University of Gaza (IUG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Web Development, Software Development, and UI/UX, with a focus on building practical and user-friendly digital solutions.
+
+💻 Skills
+
+- Languages: PHP, JavaScript, Dart, HTML, CSS
+- Frameworks: Laravel, Flutter
+- Database: MySQL
+- Tools: Git, GitHub
+- Other: UI/UX, Front-End Development
+
+🚀 Projects
+
+Here you'll find a collection of my academic and personal projects, including web and mobile applications.
+
+⭐ Graduation Project
+🌐 Web Development Projects
+📱 Flutter / Mobile Applications
+
+🌱 Currently Learning
+
+Modern Web Development · UI/UX · Advanced Laravel
+
+📫 Let's Connect
+
+💼 LinkedIn · 🐙 GitHub
+
+---
+
+✨ Learning, building, and growing one project at a time.
