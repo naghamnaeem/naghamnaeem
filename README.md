@@ -1,4 +1,4 @@
-👋 Hi, I'm Nagham Qanoo
+٩👋 Hi, I'm Nagham Qanoo
 
 🎓 Software Development Graduate
 🏛️ Islamic University of Gaza (IUG)
@@ -38,14 +38,6 @@ A collection of my academic and personal projects, including web and mobile appl
 🌱 Currently Learning
 
 "Modern Web Development" · "UI/UX" · "Advanced Laravel"
-
----
-
-📫 Let's Connect
-
-🐙 GitHub: "naghamnaeem" (https://github.com/naghamnaeem)
-
-💼 LinkedIn: Coming soon
 
 ---
 
